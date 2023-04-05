@@ -6,9 +6,6 @@ import org.junit.rules.TestName;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Ravindra Kumar on 08/09/16.
- */
 public class CalculatorWithTestName {
 
     @Rule
