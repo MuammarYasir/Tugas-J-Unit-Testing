@@ -9,9 +9,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by Ravindra Kumar on 08/09/16.
- */
 public class CalculatorTest {
 
     private Calculator calculator;
