@@ -13,10 +13,6 @@ import static org.hamcrest.core.IsCollectionContaining.hasItems;
 import static org.hamcrest.number.OrderingComparison.lessThan;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by Ravindra Kumar on 08/09/16.
- */
-
 public class HamcrestTest {
 
     @Test
